@@ -44,9 +44,10 @@ Then come back into your project and Select Create.
 ![enter image description here](https://i.imgur.com/RHxqFAT.png)
 
 
-Once your project is created select Add to Project and Object Detection model (Beta) to add the Object Detection API into your project.
+Once your project is created select `Add to Project` and `Visual Recognition Model` to add the `Detect Object` custom model into your project.
 
-![](https://lh4.googleusercontent.com/pq7LBxaYiu8dZqO3jUVQhrzxlpDlsMhRS8saLy0ZykuqHc1k9MmJBfzg8DlXSlHEc8wuRw-x5bmxzi2ALQJSfJohjv20gKVJfA2DYIprpCZ4LnAtN2jFN8mIxQnGDrLx6XvfrNlr)
+![](https://i.imgur.com/L62X64q.png)
+![](https://i.imgur.com/PfUKWjy.png)
 
 You’ll then be prompted to associate a Vision Recognition service. ![](https://lh4.googleusercontent.com/5kVBTZxdx6ilcLbtY_2iNKsjiODgR2dQAPMpjEKpQzGZ4SREkpd5UY_mifVQz-b8RMfSMSmpEwyytPpqp1uM5s4UIZ2V3qPjYbEtaDM6dHalJPXDfjgJa22KYk_QyAlYigc12YSd)
 
