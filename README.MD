@@ -1,3 +1,4 @@
+[This recording](https://youtu.be/1EqIesmX0jo) shows the end-to-end demo of the steps below. Feel free to follow if you're stuck. It's unnarrated however.
 
 ## 1. Create an IBM Cloud Account
 Head on over to [https://cloud.ibm.com/registration](https://cloud.ibm.com/registration) to create an IBM Cloud Account.  This will allow you to try out all the services and APIs available on the IBM Cloud. 
