@@ -1,3 +1,4 @@
+[This recording](https://youtu.be/1EqIesmX0jo) shows the end-to-end demo of the steps below. Feel free to follow if you're stuck. It's unnarrated however.
 
 ## 1. Create an IBM Cloud Account
 Head on over to [https://cloud.ibm.com/registration](https://cloud.ibm.com/registration) to create an IBM Cloud Account.  This will allow you to try out all the services and APIs available on the IBM Cloud. 
@@ -44,13 +45,16 @@ Then come back into your project and Select Create.
 ![enter image description here](https://i.imgur.com/RHxqFAT.png)
 
 
-Once your project is created select Add to Project and Object Detection model (Beta) to add the Object Detection API into your project.
+Once your project is created select `Add to Project` and `Visual Recognition Model` to add the `Detect Object` custom model into your project.
 
-![](https://lh4.googleusercontent.com/pq7LBxaYiu8dZqO3jUVQhrzxlpDlsMhRS8saLy0ZykuqHc1k9MmJBfzg8DlXSlHEc8wuRw-x5bmxzi2ALQJSfJohjv20gKVJfA2DYIprpCZ4LnAtN2jFN8mIxQnGDrLx6XvfrNlr)
+![](https://i.imgur.com/L62X64q.png)
+![](https://i.imgur.com/PfUKWjy.png)
 
-You’ll then be prompted to associate a Vision Recognition service. ![](https://lh4.googleusercontent.com/5kVBTZxdx6ilcLbtY_2iNKsjiODgR2dQAPMpjEKpQzGZ4SREkpd5UY_mifVQz-b8RMfSMSmpEwyytPpqp1uM5s4UIZ2V3qPjYbEtaDM6dHalJPXDfjgJa22KYk_QyAlYigc12YSd)
+You’ll then be prompted to associate a Visual Recognition service. ![](https://lh4.googleusercontent.com/5kVBTZxdx6ilcLbtY_2iNKsjiODgR2dQAPMpjEKpQzGZ4SREkpd5UY_mifVQz-b8RMfSMSmpEwyytPpqp1uM5s4UIZ2V3qPjYbEtaDM6dHalJPXDfjgJa22KYk_QyAlYigc12YSd)
 
-If you have an existing Vision Recognition service, simply select the service from the list of available services.
+**NOTE**: As of Oct 2020, Watson Visual Recognition is no longer available in Lite plan.
+
+If you have an existing Visual Recognition service, simply select the service from the list of available services.
 
 ![](https://lh4.googleusercontent.com/owrDLRmyxL_q6F7STxnq7-brhYOrRAcglUqysuBOwwO5YGUMAx7jbmyNH7WXtIdJMTPyEWRQyFOvbUjCoYMbcNgwGyFKi-jNcclrsE4G2jsjExfKZQPbPiPWexwIpwemp_8ZzBJC)
 
@@ -62,7 +66,7 @@ If you don’t have a service available, select New from the top of the page and
 
 ## 4. Load Up Your Images
 
-Alright, that’s the boring stuff out of the way. You can now get to loading and training our model. Once you’ve associated your Vision Recognition service you’ll be redirected to the Collections page where you’re able to load images to train your model on.
+Alright, that’s the boring stuff out of the way. You can now get to loading and training our model. Once you’ve associated your Visual Recognition service you’ll be redirected to the Collections page where you’re able to load images to train your model on.
 
 Click Browse from the right hand side of the page to start uploading images.
 
